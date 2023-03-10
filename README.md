@@ -1,5 +1,5 @@
 BLOG Site Project 
-.......................................................................................................................................................................
+
 Hey guys , its me your friend "Manish" who is in hunt for collaboration , this is my blog website project .
 
 CONTRIBUTION -
